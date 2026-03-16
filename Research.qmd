@@ -1,0 +1,146 @@
+---
+title: "<span class='letter-cap'>R</span><span class = 'fancy'>esearch</span>"
+format: html
+include-in-header:
+    text: |
+      <style>
+        h2, h3 {
+          color: #6a6a00;
+        }
+        a {
+        color: #6a6a00;
+        }
+        .title {
+        color: #6a6a00;
+        font-weight: bold;
+        }
+        .sidebar nav[role="doc-toc"] ul > li > a {
+        color: #6a6a00 !important; 
+        }
+        .toc-color {
+        color: #6a6a00;
+        }
+        #TOC a.active {
+        color: #6a6a00 !important;
+        font-weight: demi-bold;
+        }
+      </style>
+toc: true
+callout-icon: false
+---
+
+### [D]{.letter-cap}issertation {.section1}
+
+#### Catastrophic Politics: The International Community's Role in Preventing and Responding to Man-Made Disasters {style="font-size: 0.9em;"}
+
+::: {style="font-size: 0.9em;"}
+Since 2000, over 16,000 disasters have occurred around the world. Of these disasters, approximately one in every three disasters is of man-made origin. However, studies of man-made disasters make up a very small part of the disaster politics literature with studies mostly using case studies. In my dissertation, I plan to create a novel dataset of technological disasters that will allow me to merge the technical data of disasters with political data. Using this dataset, I then introduce a variety of methods – case studies, experimental surveys, and large-N models – in my endeavor to answer the question of when, how and why does the international community intervene when a technological disaster strikes a country.
+:::
+
+:::: {.callout-note collapse="true" icon="false"}
+## Section I: Disaster Occurrence as a Failure of Prevention
+
+::: {style="font-size: 0.9em;"}
+This first section, discusses disaster occurrence on two levels: international and domestic. International organizations vary in their evolution and governance structures which, in turn, affects their ability to prevent disasters in their respective fields. Using case studies, I develop a theory of effective governance in preventing man-made hazards from becoming technological disasters by comparing the international governance structures of three transportation industries.To study disaster occurrence at the domestic level, I use a selection model to examine how structural and institutional factors within countries affect disaster occurrence and severity.
+:::
+
+```{=html}
+<details style="font-size: 0.9em;">
+<summary style = "opacity: 1; color: #212529;">Global Disaster Governance: A Comparison of the Transportation Industries Prevention Strategies</summary>
+
+Abstract for I.I
+</details>
+<details style="font-size: 0.9em;">
+<summary style = "opacity: 1; color: #212529;">Built for Disaster? Examining Structural Factors Within Countries that Can Increase the Likelihood of or Exacerbate a Disaster Occurrence </summary>
+
+Abstract for I.II
+</details>
+```
+::::
+
+:::: {.callout-note collapse="true" icon="false"}
+## Section II: Responses from Other Countries
+
+::: {style="font-size: 0.8em;"}
+To study the response of other countries, I use an experimental survey to examine the support for foreign aid from donor publics. Using two randomized surveys, I vary the relationship between the disaster affected country and the United States, the type of technological disaster, and the entity most to blame for the disaster's occurrence. I also look at the observed responses of countries to disasters occuring in other countries. Using a large-N network analytical model, I explore how the relationships between countries impacts their responses in these disaster situations and how the response of one country to a disaster can influence the responses from other countries.
+:::
+
+```{=html}
+<details style="font-size: 0.9em;">
+<summary style = "opacity: 1; color: #212529;">Humanitarianism or Strategic Benefits? Donor Publics’ Support for Foreign Disaster Aid and Blame Attribution for Technological Disasters </summary>
+
+Abstract for II.I
+</details>
+<details style="font-size: 0.9em;">
+<summary style = "opacity: 1; color: #212529;">Phone a Friend: Evaluating the Responses of Other Countries to a Disaster-Affected Country </summary>
+
+Abstract for II.II
+</details>
+```
+::::
+
+:::: {.callout-note collapse="true" icon="false"}
+## Section III: Recovery and Political Consequences in Recipient Countries
+
+::: {style="font-size: 0.9em;"}
+In the last section, I look at how the disaster occurrence, severity and international response influences domestic politics within affected countries. Specifically, I focus on incumbent survival and approval. I try to understand and unpack how civilians respond to the work of their government and whether a disaster and its origins can create more discontent or a rally around the incumbent effect.
+:::
+
+```{=html}
+<details style="font-size: 0.9em;">
+<summary style = "opacity: 1; color: #212529;">Is Help Actually Helpful?: The Effects of Technological Disasters and International Aid on Incumbent Survival and Protest Activity in Recipient Countries</summary>
+
+Abstract for III.I
+</details>
+```
+::::
+
+[Stay tuned...Details and initial visualizations for the disaster dataset are forthcoming!]{style="font-size: 0.9em;"}
+
+### [P]{.letter-cap}eer-[R]{.letter-cap}eviewed [P]{.letter-cap}ublications {.section2}
+
+```{=html}
+<details>
+<summary style = "opacity: 1; color: #212529;">Kinne, Brandon, Juan Tellez, Anya Stewart, Iliyan Iliev, Brandon Derr, <span style="font-weight: bold; color: #6a6a00; ">Shreya Murthy</span>, and Patrick Bernhard. 2026. “Interstate Competition and Transnational Threats: How Networks of Nonstate Actors Increase Conflict between States” <span style = "font-style: italic;">Forthcoming, International Organization.</span></summary>
+
+<span style = "font-size: 0.7em;">
+<p style = "line-height: 1;">
+Scholars and policymakers alike now view competition between states as the primary threat to international security. Yet, the nontraditional threats that previously defined the global security landscape, such as terrorism and civil war, continue to flourish. Recent interstate conflicts have featured nonstate armed groups as central actors, and governments rely on these groups to extend their interests. This paper examines how government support for foreign nonstate actors affects interstate competition. We conceptualize state-nonstate ties as transnational networks comprised of cooperative relationships between governments and foreign terrorist organizations, rebel groups, militias, and civilian groups. We argue that these transnational networks exacerbate interstate tensions in two ways. First, they increase a state's capacity relative to adversaries, which emboldens the government, increases its bargaining leverage, and leads to increased aggression toward other states. Second, they increase a government's liability for the actions of sponsored groups, which leads to unintended confrontations and retaliatory actions by affected targets. To measure interstate competition, we use high-resolution event data on verbal and material conflict between governments. We incorporate these data into network models that allow transnational ties and interstate conflict to co-evolve, such that states form ties to nonstate actors in response to interstate conflict, and those ties in turn influence conflict probability. We find that both the size and structure of governments' respective transnational networks are associated with an increase in verbal and material conflict. Further, this association is particularly strong for states that lack conventional military strength. These findings suggest that cooperation between governments and nonstate actors is integrally connected to interstate competition.
+</p>
+</span>
+</details>
+```
+
+### [W]{.letter-cap}orking [P]{.letter-cap}apers {.section3}
+
+```{=html}
+<details style="font-size: 0.9em;">
+<summary style = "opacity: 1; color: #212529;">Built for Disaster? Examining Structural Factors Within Countries that Can Increase the Likelihood of or Exacerbate a Disaster Occurrence </summary>
+
+Abstract for I.II
+</details>
+
+<details style="font-size: 0.9em;">
+<summary style = "opacity: 1; color: #212529;">Humanitarianism or Strategic Benefits? Donor Publics’ Support for Foreign Disaster Aid and Blame Attribution for Technological Disasters </summary>
+
+Abstract for II.I
+</details>
+```
+
+### [G]{.letter-cap}rants, [A]{.letter-cap}wards, and [C]{.letter-cap}onferences {.section4}
+
+List everything from UCDavis and nothing from UConn.
+
+#### Fellowships
+
+-   University of California, Davis Dean's Summer Graduate Support Award, \$6,000 - May 2025
+
+-   2025 Political Science Summer Methods Travel Support Award, \$1,795 - May 2025
+
+#### Awards
+
+#### Conferences
+
+International Studies Association: 2026
+
+Midwestern Political Science Association: 2024, 2025

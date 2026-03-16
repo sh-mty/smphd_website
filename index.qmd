@@ -1,0 +1,84 @@
+---
+title: "<span class='letter-cap'>S</span><span class = 'fancy'>hreya</span> <span class='letter-cap'>M</span><span class = 'fancy'>urthy</span>"
+subtitle: "PhD Candidate <br> Department of Political Science <br> University of California, Davis"
+image: profile.jpeg
+toc: true
+about: 
+  template: solana
+  image-shape: rounded
+  links:
+    - icon: envelope-fill
+      text: " "
+      href: contact.qmd
+    - text: "CV "
+      href: mailto:shimurthy@ucdavis.edu
+include-in-header:
+    text: |
+      <style>
+        h1, h2, h3 {
+          color: #A30B37;
+        }
+        .bi-envelope-fill {
+        color: #A30B37;
+        }
+        a.about-link {
+        border-color: #a30b37;
+        }
+        .about-link-text {
+          color: #a30b37;
+          weight: bold;
+        }
+        .quarto-title p {
+          font-color: #212529;
+          font-weight: normal;
+        }
+      </style>
+---
+
+<!-- Things to do -->
+<!-- - Add image -->
+<!-- - Add link to CV  -->
+
+### [B]{.letter-cap}io
+
+I’m a PhD Candidate in political science at [The University of California, Davis](https://ps.ucdavis.edu/).
+
+I focus my research broadly on the politics of disaster resilience, global governance, and development. I am also interested in the application of various mixed methods approaches to the study of disaster politics with a focus on network analysis and machine learning.
+
+My dissertation, [**Catastrophic Politics: The International Community's Role in Preventing and Responding to Man-Made Disasters**]{style="color: #A30B37;"}, aims to broaden the methodologies used to study technological disasters and create a comprehensive dataset that will allow researchers to merge the technical data of disasters with political variables with relative ease. This work is supervised by my dissertation committee, Gabriella Montinola (UCDavis, Chair), Brandon Kinne (UCDavis) and Christopher Hare (UCDavis).
+
+In my free time, I enjoy traveling, photography, textile arts, and spending time with my family.
+
+### [E]{.letter-cap}ducation
+
+::: topbr
+<p class="custom-subtitle">
+
+🎓 **MA in Political Science, 2022** \| University of Connecticut
+
+</p>
+
+<p class="custom-subtitle">
+
+🎓 **BS in Finance, 2021** \| University of Connecticut
+
+</p>
+
+<p class="custom-subtitle">
+
+🎓 **BA in Human Rights, 2021** \| University of Connecticut
+
+</p>
+
+<p class="custom-subtitle">
+
+🎓 **BA in Criminology, 2021** \| University of Connecticut
+
+</p>
+:::
+
+### [R]{.letter-cap}esearch [I]{.letter-cap}nterests
+
+*Substantive*: Disaster Politics & Resilience \| Global Governance \| Development
+
+*Methodology*: Network Analysis \| Machine Learning

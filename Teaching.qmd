@@ -1,0 +1,76 @@
+---
+title: "<span class='letter-cap'>T</span><span class = 'fancy'>eaching</span>"
+format: html
+include-in-header:
+    text: |
+      <style>
+        h2, h3 {
+          color: #6D213C;
+        }
+        a {
+        color: #6D213C;
+        }
+        .title {
+        color: #6D213C;
+        font-weight: bold;
+        }
+        .sidebar nav[role="doc-toc"] ul > li > a {
+        color: #6D213C !important; 
+        }
+        .toc-color {
+        color: #6D213C;
+        }
+        #TOC a.active {
+        color: #6D213C !important;
+        font-weight: demi-bold;
+        }
+      </style>
+toc: true
+callout-icon: false
+---
+
+::: {style="color: #6a6a00;"}
+### [T]{.letter-cap}[eaching]{.title} [A]{.letter-cap}[ssistant with]{.title} [S]{.letter-cap}[ections]{.title}
+:::
+
+#### International Relations
+
+-   Introduction to International Relations (2 sections with McCage Griffiths), *upcoming Spring 2026*
+
+-   Introduction to International Relations (1 section with Brandon Kinne), Fall 2024
+
+[Stay tuned...Teaching Materials for these sections are forthcoming!]{style="font-size: 0.75em;"}
+
+#### Political Methodology
+
+-   The Scientific Study of Political Science (3 sections with McCage Griffiths), Winter 2026
+
+-   The Scientific Study of Political Science (2 sections with Bradford Jones), Fall 2025
+
+::: {style="color: #6a6a00;"}
+### [T]{.letter-cap}[eaching]{.title} [A]{.letter-cap}[ssistant]{.title}
+:::
+
+#### International Relations
+
+-   Theories of International Relations, (with Lauren Peritz), Spring 2026
+
+-   Climate Change and Politics, (with Daniel Y. Kono), Spring 2025
+
+-   National Security Policy, (with McCage Griffiths), Spring 2024
+
+-   International Law, (with Heather Elko), Fall 2023
+
+-   The Politics of Interdependence, (with Daniel Y. Kono), Winter 2023
+
+#### Comparative Politics
+
+-   Comparative Political Development: Democracy, (with Gabriella Montinola), Winter 2025
+
+-   Comparative Political Institutions: Legislatures, (with Spencer Kiesel), Spring 2023
+
+#### Other
+
+-   Government and the Economy, (with Hanno Hilbig), Fall 2024
+
+-   Mass Media and Politics, (with Amber Boydstun), Winter 2024

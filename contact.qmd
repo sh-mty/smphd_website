@@ -1,0 +1,33 @@
+---
+title: "<span class='letter-cap'>C</span><span class = 'fancy'>ontact</span> <span class='letter-cap'>M</span><span class = 'fancy'>e</span>"
+include-in-header:
+    text: |
+      <style>
+        h1, h2, h3 {
+          color: #A30B37;
+        }
+        .bi-envelope-fill {
+        color: #A30B37;
+        }
+        a.about-link {
+        border-color: #a30b37;
+        }
+        .about-link-text {
+          color: #a30b37;
+          weight: bold;
+        }
+        .quarto-title p {
+          font-color: #212529;
+          font-weight: normal;
+        }
+      </style>
+---
+
+Email: **shimurthy \[at\] ucdavis.edu** <br> Department of Political Science <br> University of California, Davis
+
+One Shields Avenue <br> Davis, CA 95616
+
+
+<!-- Website for adding a form: https://medium.com/@amccollum.dev/creating-a-functional-contact-form-on-your-website-92aef7dd6c1d -->
+
+

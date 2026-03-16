@@ -1,0 +1,47 @@
+project:
+  type: website
+
+execute:
+  freeze: true
+
+website:
+  title: "Shreya Murthy"
+  search: false
+  description: "Shreya Murthy is a PhD Candidate at UC Davis."
+  site-url: "https://www.shreyamurthyphd.com/"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} 2026 Shreya Murthy</span>
+      <span class="faux-block">All content licensed under [{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>      
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <!--<span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/hail2thief/juan-quarto)</span>-->
+
+format:
+  html:
+    linkcolor: "#A30B37"
+    theme: 
+    - custom.scss
+    grid: 
+      body-width: 900px
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
+
+
+
+
+

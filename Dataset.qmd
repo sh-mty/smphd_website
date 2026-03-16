@@ -1,0 +1,30 @@
+---
+title: "<span class='letter-cap'>D</span><span class = 'fancy'>isaster</span> <span class='letter-cap'>D</span><span class = 'fancy'>ataset</span>"
+format: html
+include-in-header:
+    text: |
+      <style>
+        h2, h3 {
+          color: #6A99A0;
+        }
+        a {
+        color: #6A99A0;
+        }
+        .title {
+        color: #6A99A0;
+        font-weight: bold;
+        }
+        .sidebar nav[role="doc-toc"] ul > li > a {
+        color: #6A99A0 !important; 
+        }
+        .toc-color {
+        color: #6A99A0;
+        }
+        #TOC a.active {
+        color: #6A99A0 !important;
+        font-weight: demi-bold;
+        }
+      </style>
+toc: true
+callout-icon: false
+---
