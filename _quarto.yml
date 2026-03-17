@@ -12,11 +12,11 @@ website:
   navbar:
     pinned: true
     left:
-      - href: index.qmd
+      - href: index.html
         text: Home
-      - href: research.qmd
+      - href: research.html
         text: Research
-      - href: teaching.qmd
+      - href: teaching.html
         text: Teaching
   page-footer:
     left: |
