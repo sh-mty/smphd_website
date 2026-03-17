@@ -23,7 +23,7 @@ include-in-header:
       </style>
 ---
 
-Email: **shimurthy \[at\] ucdavis.edu** <br> Department of Political Science <br> University of California, Davis
+Email: **shimurthy \[at\] ucdavis.edu** <br> <br>Department of Political Science <br> University of California, Davis
 
 One Shields Avenue <br> Davis, CA 95616
 

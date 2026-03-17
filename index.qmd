@@ -1,17 +1,18 @@
 ---
 title: "<span class='letter-cap'>S</span><span class = 'fancy'>hreya</span> <span class='letter-cap'>M</span><span class = 'fancy'>urthy</span>"
 subtitle: "PhD Candidate <br> Department of Political Science <br> University of California, Davis"
-image: profile.jpeg
+image: IMG_0482.png
 toc: true
+resources: MURTHY_CV_Mar2026.pdf
 about: 
   template: solana
   image-shape: rounded
   links:
     - icon: envelope-fill
       text: " "
-      href: contact.qmd
+      href: contact.html
     - text: "CV "
-      href: mailto:shimurthy@ucdavis.edu
+      href: MURTHY_CV_Mar2026.pdf
 include-in-header:
     text: |
       <style>
