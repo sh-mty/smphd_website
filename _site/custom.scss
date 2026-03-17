@@ -1,0 +1,131 @@
+/*-- scss:defaults --*/
+
+// Define custom colors
+$PacificBlue: #6A99A0;
+$PrussianBlue: #022851;
+$Olive: #6a6a00;
+$CherryRose: #A30B37;
+$DarkAmaranth: #6D213C;
+
+// Titles and Headings in All Caps 
+.letter-cap {
+  font-variant: uppercase;
+  font-size: 1.5em; /* Makes them slightly larger */
+}
+
+.fancy {
+  text-transform: uppercase; /* Makes the rest lowercase */
+  font-variant: small-caps; /* Optional: makes rest small caps */
+}
+
+h3 {
+  text-transform: uppercase; /* Makes the rest lowercase */
+  font-variant: small-caps; /* Optional: makes rest small caps */
+}
+
+// Dropdowns
+$callout-color-note: #6a6a00; //Section 1
+$callout-color-warning: #A30B37; //Section 2
+
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+li {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Target lists directly following a paragraph or another list item (advanced) */
+p + ul, p + ol, li + ul, li + ol {
+  margin-top: 0;
+}
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,700;1,400;1,700&family=Rethink+Sans:ital,wght@0,400;0,700;0,800;1,400;1,700;1,800&display=swap');
+
+// Common Themes
+
+  // Main
+
+$font-family-sans-serif: "Avenir Next" !default;
+
+$headings-font-family: "Avenir Heavy" !default;
+$headings-font-weight: 600 !default;
+$headingColorDefault: #022851;
+$headings-decoration: underline !default;
+
+$navbar-font-family: "Avenir Next" !default;
+
+$toc-font-family: "Avenir Next" !default;
+
+$footer-font-family: "Avenir Next" !default;
+
+
+// Body
+$body-color: #212529 !default;
+
+
+
+// Navbar
+$navbar-bg: #022851 !default;
+$navbar-fg: #ffffff !default;
+$navbar-hl: #ffffff !default;
+
+
+// Links
+$link-color:  #A30B37 !default;
+$link-decoration: underline !default;
+$link-hover-color: #A30B37 !default;
+$link-hover-decoration: underline !default;
+
+// TOC
+$toc-color: #6A99A0 !default;
+/* Target the TOC links */
+nav#TOC a {
+  text-transform: lowercase;   /* Makes text ALL CAPS */
+  font-variant: small-caps;     /* Uses small-caps variant */
+}
+
+/* Target the TOC Title */
+.sidebar-toc .toc-title {
+  text-transform: lowercase;
+  font-variant: normal;         /* Keeps title normal */
+}
+
+summary {
+    list-style: none; /* Chrome/Safari/Firefox */
+    cursor: pointer;
+    opacity: 1 !important;
+    color: #212529;
+  }
+details summary {
+    opacity: 1 !important;
+    color: #212529;
+    transition: none !important;
+    transition-delay: unset !important;
+    /* Often necessary for animation frameworks like Squarespace */
+    transform: unset !important;
+}
+
+summary::-webkit-details-marker {
+    display: none; /* Hide toggle in older Chrome/Safari */
+  }
+  
+  /* Optional: Add custom styling */
+.no-bullet-collapse {
+    margin-bottom: 10px;
+  }
+  
+/*--scss:rules--*/
+
+.about-page h1, 
+.about-page h2, 
+.about-page h3,
+.about-page h4{
+  color: #A30B37;
+}
+
